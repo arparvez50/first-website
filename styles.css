@@ -7,3 +7,10 @@ body {
     color:cornflowerblue;
     font-family: verdana;
 }
+.btn {
+    text-decoration: none;
+    background: #000;
+    color:white;
+    font-family: verdana;
+    padding: 10px 20px;
+}
