@@ -1,4 +1,4 @@
-//Practice ternary operator
+//Practice ternary operator 
 
 var age = 19
 
